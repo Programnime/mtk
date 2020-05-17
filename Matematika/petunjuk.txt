@@ -1,0 +1,20 @@
+sebelum mengerjakan soal USBN matematika kamu:
+tidak boleh memakai kalkulator
+tidak boleh mengerjakan soal berikutnya sebelum soal sebelum nya belum benar
+jawaban:
+jika kamu melihat soal ditanya skala, kamu harus tulis kaya contoh ini
+asli = 4cm
+gambar = 2cm
+skala = 1/2 bukan 1:2
+jika kamu sudah menyelesaikan easy maka lanjut ke normal
+jika kamu sudah menyelesaikan normal maka lanjut ke hard
+begitu seterusnya
+jika kamu sudah menyelesaikan ilmuwan maka kamu hebat
+jika ada soal abc(kalau disini pakai angka 1234)maka kamu harus menjawab salah satu angka seperti ini
+1+1=
+1.1
+2.4
+3.2
+4.1
+jawaban: 3
+tanda koma = .
